@@ -12,7 +12,7 @@ This repository contains my completed courses and certificates from the **Associ
 | 2 | Joining Data in SQL | [View](https://github.com/Anaselsaeed/Certifications/blob/main/Joining%20Data%20in%20Sql_certificate.pdf) |
 | 3 | Data Manipulation in SQL | [View](https://github.com/Anaselsaeed/Certifications/blob/main/Data%20Manipulation%20in%20SQL_certificate.pdf)
 | 4 | PostgreSQL Summary Stats and Window Functions | [View](https://github.com/Anaselsaeed/Certifications/blob/main/PostgreSQL%20Summary%20Stats%20and%20Window_certificate.pdf) |
-| 5 | Functions for Manipulating Data in PostgreSQL | [View](./certifications/Functions%20for%20Manipulating%20Data%20in%20POSTGRESQL_certificate.pdf) |
+| 5 | Functions for Manipulating Data in PostgreSQL | [View](https://github.com/Anaselsaeed/Certifications/blob/main/Functions%20for%20Manipulating%20Data%20in%20POSTGRESQL_certificate.pdf) |
 
 ---
 
