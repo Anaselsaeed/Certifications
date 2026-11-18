@@ -8,7 +8,7 @@ This repository contains my completed courses and certificates from the **Associ
 
 | # | Course | Certificate |
 |---|--------|-------------|
-| 1 | Data Analysis in Excel | [View](./Certifications/Data_analysis in excel_certificate.pdf) |
+| 1 | Data Analysis in Excel | [View](./Certifications/Data_analysis%20in%20excel_certificate.pdf) |
 | 2 | Joining Data in SQL | [View](./Certifications/Joining%20Data%20in%20Sql_certificate.pdf) |
 | 3 | Data Manipulation in SQL | [View](./Certifications/[Data%20Manipulation%20in%20SQL_certificate.pdf](https://github.com/Anaselsaeed/Certifications/blob/f9b1bf7df8742073b7cf26a523fbb9950fb1c4ee/Data%20Manipulation%20in%20SQL_certificate.pdf)) |
 | 4 | PostgreSQL Summary Stats and Window Functions | [View](./certifications/PostgreSQL%20Summary%20Stats%20and%20Window_certificate.pdf) |
